@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+		<title>blog pacdesarrollolm feed</title>
+		<link>https://pacdesarrollolm.blogspot.com</link>
+		<description>pruebas sobre la Pac de Desarrollo</description>
+
+		<item>
+			<title>Cómo crear un blog gratuito con Blogger</title>
+			<link>https://support.google.com/blogger/answer/1623800?hl=es</link>
+			<description>Información utilizada para crear mi blog</description>
+		</item>
+		<item>
+			<title>Imagen de playa</title>
+			<link>https://es.wikipedia.org/wiki/Playa</link>
+			<description>Descripción del lugar dónde preferiría encontrarme ahora</description>
+		</item>
+		<item>
+			<title>SOS cómo crear un documento RSS</title>
+			<link>https://desarrolloweb.com/articulos-copyleft/articulo-rss-crear-un-documento.html</link>
+			<description>Documentación de ayuda para el desarrollo de la Pac</description>
+		</item>
+		<item>
+			<title>Visita el blog actualizado</title>
+			<link>https://pacdesarrollolm.blogspot.com</link>
+			<description>Nos damos una vuelta por el blog</description>
+		</item>
+		<item>
+			<title>Centro de referencia</title>
+			<link>https://www.ilerna.es/es/fp-a-distancia</link>
+			<description>Centro en el que estoy cursando el curso</description>
+		</item>
+
+</channel>
+</rss>
